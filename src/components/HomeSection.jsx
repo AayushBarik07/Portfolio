@@ -27,7 +27,7 @@ const HomeSection = () => {
         
         {/* Description with improved styling */}
         <p className="text-xl text-zinc-300 mb-10 ms-15 max-w-2xl leading-relaxed">
-          I'm a Web Developer with a passion for [Your Interests/Skills]. I love creating [type of projects you enjoy] and I'm always eager to learn new technologies.
+        I'm a Web Developer with a strong passion for building dynamic and responsive web applications. I'm currently expanding my skills to become a Full Stack Developer, and I love creating user-friendly, performance-optimized projects. I'm always eager to learn new technologies and take on exciting challenges.
         </p>
         
         {/* CTA button with hover effects */}

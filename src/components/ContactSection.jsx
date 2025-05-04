@@ -65,7 +65,7 @@ const ContactSection = () => {
                 </div>
               </div>
               
-              {/* <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4">
+              <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4">
                 <div className="flex items-center justify-center w-12 h-12 rounded-full bg-purple-500/20 text-purple-400">
                   <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
@@ -73,9 +73,9 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h3 className="text-xl font-bold text-white mb-1">Location</h3>
-                  <p className="text-zinc-300">Your City, Country</p>
+                  <p className="text-zinc-300">India</p>
                 </div>
-              </div> */}
+              </div>
               
               <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4">
                 <div className="flex items-center justify-center w-12 h-12 rounded-full bg-pink-500/20 text-pink-400">
